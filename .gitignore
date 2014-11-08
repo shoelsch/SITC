@@ -1,4 +1,6 @@
 *~
 *.pyc
 ipynb
+venv
 data/private
+!data/public
