@@ -7,14 +7,14 @@ import re
 def main():
     seen = list()
 
-    with open("../data/private/volunteers.csv", "rU") as inp:
+    with open("../data/private/volunteers-2014.csv", "rU") as inp:
         cr = csv.reader(inp)
         cr.next()
         
-        with open("../data/private/withheld.csv", "wb") as out_private:
+        with open("../data/private/withheld-2014.csv", "wb") as out_private:
             cw_private = csv.writer(out_private)
             cw_private.writerow(["ID", "FIRST", "LAST", "EMAIL", "PHONE"])
-            with open("../data/public/csv/volunteers.csv", "wb") as out_public:
+            with open("../data/public/csv/volunteers-2014.csv", "wb") as out_public:
                 cw_public = csv.writer(out_public)
                 cw_public.writerow(["ID", "DOB", "GENDER", "ADDRESS", "CITY", "STATE", "ZIPCODE", "ETHNICITY", "RELIGION", "HIGHSCHOOL", "GRAD_YEAR", "COLLEGE", "CARPOOL", "VOLUNTEERED", "VOLUNTEER_YEARS"])
                                     
