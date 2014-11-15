@@ -1,614 +1,614 @@
 Date,Carpool,Destination,Actual,Capacity
-7-29,AA,Delray (585 S. Leigh St),0,4.0
-7-29,B,LMS (1450 McKinstry St),0,5.0
-7-29,B,Brightmoors,0,5.0
-7-29,B,Delray (585 S. Leigh St),0,5.0
-7-29,B,HamTown (8625 Joseph Campau),0,19.0
-7-29,B,NWAC (18100 Meyers Rd),0,4.0
-7-29,D,Delray (585 S. Leigh St),0,11.0
-7-29,G,LMS (1450 McKinstry St),0,20.0
-7-29,GP,Brightmoors,0,2.0
-7-29,GP,Trumbull,0,2.0
-7-29,NF,LMS (1450 McKinstry St),0,17.0
-7-29,NF,Trumbull,0,8.0
-7-29,NF,Brightmoors,0,4.0
-7-29,R,Trumbull,0,2.0
-7-29,R,HamTown (8625 Joseph Campau),0,5.0
-7-29,T,LMS (1450 McKinstry St),0,10.0
-7-29,T,Brightmoors,0,4.0
-7-29,OP,Denby,0,12.0
-7-29,OP,Pastuer,0,2.0
-7-22,AA,Delray (585 S. Leigh St),8.0,4.0
-7-22,B,NWAC (18100 Meyers Rd),0,14.0
+7-29,AA,Delray (585 S. Leigh St),4.0,0
+7-29,B,LMS (1450 McKinstry St),5.0,0
+7-29,B,Brightmoors,5.0,0
+7-29,B,Delray (585 S. Leigh St),5.0,0
+7-29,B,HamTown (8625 Joseph Campau),19.0,0
+7-29,B,NWAC (18100 Meyers Rd),4.0,0
+7-29,D,Delray (585 S. Leigh St),11.0,0
+7-29,G,LMS (1450 McKinstry St),20.0,0
+7-29,GP,Brightmoors,2.0,0
+7-29,GP,Trumbull,2.0,0
+7-29,NF,LMS (1450 McKinstry St),17.0,0
+7-29,NF,Trumbull,8.0,0
+7-29,NF,Brightmoors,4.0,0
+7-29,R,Trumbull,2.0,0
+7-29,R,HamTown (8625 Joseph Campau),5.0,0
+7-29,T,LMS (1450 McKinstry St),10.0,0
+7-29,T,Brightmoors,4.0,0
+7-29,OP,Denby,12.0,0
+7-29,OP,Pastuer,2.0,0
+7-22,AA,Delray (585 S. Leigh St),4.0,8.0
+7-22,B,NWAC (18100 Meyers Rd),14.0,0
 7-22,B,Brightmoor.,1.0,1.0
 7-22,B,Balduck,9.0,9.0
-7-22,B,Delray (585 S. Leigh St),0,5.0
-7-22,D,Delray (585 S. Leigh St),4.0,5.0
+7-22,B,Delray (585 S. Leigh St),5.0,0
+7-22,D,Delray (585 S. Leigh St),5.0,4.0
 7-22,G,LMS (1450 McKinstry St),14.0,14.0
-7-22,GP,Balduck,0,5.0
-7-22,NF,LMS (1450 McKinstry St),18.0,20.0
-7-22,NF,Brightmoor.,0,4.0
-7-22,NF,HamTown (8625 Joseph Campau),0,4.0
-7-22,R,HamTown (8625 Joseph Campau),4.0,2.0
-7-22,T,LMS (1450 McKinstry St),6.0,3.0
-7-22,T,Brightmoor.,0,3.0
-7-22,X,LMS (1450 McKinstry St),2.0,0
-7-22,OP,HamTown (8625 Joseph Campau),18.0,15.0
-7-23,AA,Delray (585 S. Leigh St),8.0,5.0
-7-23,B,NWAC (18100 Meyers Rd),5.0,8.0
-7-23,B,Food Field,5.0,0
-7-23,B,HamTown (8625 Joseph Campau),14.0,18.0
-7-23,B,Delray (585 S. Leigh St),9.0,8.0
-7-23,D,Northend,4.0,0
-7-23,D,Delray (585 S. Leigh St),4.0,5.0
+7-22,GP,Balduck,5.0,0
+7-22,NF,LMS (1450 McKinstry St),20.0,18.0
+7-22,NF,Brightmoor.,4.0,0
+7-22,NF,HamTown (8625 Joseph Campau),4.0,0
+7-22,R,HamTown (8625 Joseph Campau),2.0,4.0
+7-22,T,LMS (1450 McKinstry St),3.0,6.0
+7-22,T,Brightmoor.,3.0,0
+7-22,X,LMS (1450 McKinstry St),0,2.0
+7-22,OP,HamTown (8625 Joseph Campau),15.0,18.0
+7-23,AA,Delray (585 S. Leigh St),5.0,8.0
+7-23,B,NWAC (18100 Meyers Rd),8.0,5.0
+7-23,B,Food Field,0,5.0
+7-23,B,HamTown (8625 Joseph Campau),18.0,14.0
+7-23,B,Delray (585 S. Leigh St),8.0,9.0
+7-23,D,Northend,0,4.0
+7-23,D,Delray (585 S. Leigh St),5.0,4.0
 7-23,G,LMS (1450 McKinstry St),4.0,4.0
-7-23,G,NWAC (18100 Meyers Rd),14.0,5.0
-7-23,GP,Maybury Elema,4.0,3.0
-7-23,NF,LMS (1450 McKinstry St),14.0,19.0
-7-23,NF,Food Field,5.0,0
-7-23,NF,Delray (585 S. Leigh St),5.0,3.0
-7-23,NF,NWAC (18100 Meyers Rd),5.0,7.0
-7-23,R,HamTown (8625 Joseph Campau),4.0,7.0
-7-23,T,LMS (1450 McKinstry St),6.0,3.0
-7-23,T,Food Field,4.0,0
-7-23,T,NWAC (18100 Meyers Rd),4.0,3.0
-7-23,X2,Maybury Elema,15.0,8.0
-7-23,X,LMS (1450 McKinstry St),2.0,0
-7-23,X,Maybury Elema,15.0,18.0
-7-23,OP,Denby,14.0,24.0
+7-23,G,NWAC (18100 Meyers Rd),5.0,14.0
+7-23,GP,Maybury Elema,3.0,4.0
+7-23,NF,LMS (1450 McKinstry St),19.0,14.0
+7-23,NF,Food Field,0,5.0
+7-23,NF,Delray (585 S. Leigh St),3.0,5.0
+7-23,NF,NWAC (18100 Meyers Rd),7.0,5.0
+7-23,R,HamTown (8625 Joseph Campau),7.0,4.0
+7-23,T,LMS (1450 McKinstry St),3.0,6.0
+7-23,T,Food Field,0,4.0
+7-23,T,NWAC (18100 Meyers Rd),3.0,4.0
+7-23,X2,Maybury Elema,8.0,15.0
+7-23,X,LMS (1450 McKinstry St),0,2.0
+7-23,X,Maybury Elema,18.0,15.0
+7-23,OP,Denby,24.0,14.0
 7-24,AA,Delray (585 S. Leigh St),5.0,5.0
-7-24,B,NWAC (18100 Meyers Rd),5.0,4.0
-7-24,B,Henry Ford,4.0,3.0
-7-24,B,Plum Street,5.0,0
-7-24,B,HamTown (8625 Joseph Campau),14.0,10.0
-7-24,B,Delray (585 S. Leigh St),5.0,4.0
-7-24,D,Delray (585 S. Leigh St),4.0,11.0
-7-24,G,LMS (1450 McKinstry St),14.0,15.0
+7-24,B,NWAC (18100 Meyers Rd),4.0,5.0
+7-24,B,Henry Ford,3.0,4.0
+7-24,B,Plum Street,0,5.0
+7-24,B,HamTown (8625 Joseph Campau),10.0,14.0
+7-24,B,Delray (585 S. Leigh St),4.0,5.0
+7-24,D,Delray (585 S. Leigh St),11.0,4.0
+7-24,G,LMS (1450 McKinstry St),15.0,14.0
 7-24,G,NWAC (18100 Meyers Rd),5.0,5.0
-7-24,GP,LMS (1450 McKinstry St),0,1.0
-7-24,GP,Maybury Elema,4.0,0.0
-7-24,NF,LMS (1450 McKinstry St),5.0,8.0
-7-24,NF,Delray (585 S. Leigh St),5.0,6.0
-7-24,NF,Plum Street,5.0,3.0
-7-24,NF,NWAC (18100 Meyers Rd),14.0,12.0
-7-24,R,HamTown (8625 Joseph Campau),4.0,5.0
-7-24,T,LMS (1450 McKinstry St),6.0,3.0
-7-24,T,Plum Street,4.0,1.0
-7-24,X,LMS (1450 McKinstry St),2.0,0
-7-24,OP,Pastuer ,5.0,0
-7-24,OP,Henry Ford,14.0,15.0
-7-25,AA,Henry Ford,5.0,6.0
+7-24,GP,LMS (1450 McKinstry St),1.0,0
+7-24,GP,Maybury Elema,0.0,4.0
+7-24,NF,LMS (1450 McKinstry St),8.0,5.0
+7-24,NF,Delray (585 S. Leigh St),6.0,5.0
+7-24,NF,Plum Street,3.0,5.0
+7-24,NF,NWAC (18100 Meyers Rd),12.0,14.0
+7-24,R,HamTown (8625 Joseph Campau),5.0,4.0
+7-24,T,LMS (1450 McKinstry St),3.0,6.0
+7-24,T,Plum Street,1.0,4.0
+7-24,X,LMS (1450 McKinstry St),0,2.0
+7-24,OP,Pastuer ,0,5.0
+7-24,OP,Henry Ford,15.0,14.0
+7-25,AA,Henry Ford,6.0,5.0
 7-25,B,Henry Ford,5.0,5.0
-7-25,D,Henry Ford,5.0,8.0
+7-25,D,Henry Ford,8.0,5.0
 7-25,G,Henry Ford,5.0,5.0
-7-25,GP,Maybury,15.0,9.0
-7-25,GP,Henry Ford,5.0,0
-7-25,NF,Henry Ford,5.0,0
-7-25,R,Henry Ford,5.0,4.0
-7-25,T,Henry Ford,0.0,3.0
+7-25,GP,Maybury,9.0,15.0
+7-25,GP,Henry Ford,0,5.0
+7-25,NF,Henry Ford,0,5.0
+7-25,R,Henry Ford,4.0,5.0
+7-25,T,Henry Ford,3.0,0.0
 7-25,X,Henry Ford,30.0,30.0
-7-25,OP,Henry Ford,4.0,0
-7-31,AA,Delray (585 S. Leigh St),8.0,6.0
-7-31,B,Palmer Park,5.0,4.0
+7-25,OP,Henry Ford,0,4.0
+7-31,AA,Delray (585 S. Leigh St),6.0,8.0
+7-31,B,Palmer Park,4.0,5.0
 7-31,B,LMS (1450 McKinstry St),14.0,14.0
-7-31,B,HamTown (8625 Joseph Campau),10.0,0
-7-31,B,NWAC (18100 Meyers Rd),5.0,4.0
-7-31,D,Delray (585 S. Leigh St),4.0,9.0
-7-31,G,NWAC (18100 Meyers Rd),14.0,10.0
-7-31,G,Delray (585 S. Leigh St),5.0,0
+7-31,B,HamTown (8625 Joseph Campau),0,10.0
+7-31,B,NWAC (18100 Meyers Rd),4.0,5.0
+7-31,D,Delray (585 S. Leigh St),9.0,4.0
+7-31,G,NWAC (18100 Meyers Rd),10.0,14.0
+7-31,G,Delray (585 S. Leigh St),0,5.0
 7-31,GP,Palmer Park,4.0,4.0
-7-31,NF,LMS (1450 McKinstry St),5.0,8.0
-7-31,NF,Pastuer,14.0,13.0
-7-31,NF,Henry Ford,4.0,10.0
-7-31,NF,HamTown (8625 Joseph Campau),5.0,3.0
+7-31,NF,LMS (1450 McKinstry St),8.0,5.0
+7-31,NF,Pastuer,13.0,14.0
+7-31,NF,Henry Ford,10.0,4.0
+7-31,NF,HamTown (8625 Joseph Campau),3.0,5.0
 7-31,NF,Delray (585 S. Leigh St),5.0,5.0
-7-31,R,Palmer Park,0,0.0
+7-31,R,Palmer Park,0.0,0
 7-31,R,HamTown (8625 Joseph Campau),4.0,4.0
-7-31,T,Palmer Park,4.0,2.0
-7-31,T,LMS (1450 McKinstry St),6.0,4.0
-7-31,T,Plum,0.0,5.0
-7-31,X,LMS (1450 McKinstry St),2.0,0
-7-31,X,Plum,30.0,0
-7-31,OP,Henry Ford,14.0,16.0
-7-30,AA,Delray (585 S. Leigh St),8.0,2.0
-7-30,B,LMS (1450 McKinstry St),14.0,12.0
+7-31,T,Palmer Park,2.0,4.0
+7-31,T,LMS (1450 McKinstry St),4.0,6.0
+7-31,T,Plum,5.0,0.0
+7-31,X,LMS (1450 McKinstry St),0,2.0
+7-31,X,Plum,0,30.0
+7-31,OP,Henry Ford,16.0,14.0
+7-30,AA,Delray (585 S. Leigh St),2.0,8.0
+7-30,B,LMS (1450 McKinstry St),12.0,14.0
 7-30,B,Food Field,5.0,5.0
-7-30,B,Delray (585 S. Leigh St),5.0,4.0
-7-30,B,Henry Ford,5.0,4.0
-7-30,B,NWAC (18100 Meyers Rd),5.0,2.0
-7-30,D,Northend,4.0,0
-7-30,D,Delray (585 S. Leigh St),4.0,6.0
-7-30,G,NWAC (18100 Meyers Rd),14.0,13.0
-7-30,GP,Henry Ford,4.0,0.0
-7-30,NF,LMS (1450 McKinstry St),5.0,4.0
+7-30,B,Delray (585 S. Leigh St),4.0,5.0
+7-30,B,Henry Ford,4.0,5.0
+7-30,B,NWAC (18100 Meyers Rd),2.0,5.0
+7-30,D,Northend,0,4.0
+7-30,D,Delray (585 S. Leigh St),6.0,4.0
+7-30,G,NWAC (18100 Meyers Rd),13.0,14.0
+7-30,GP,Henry Ford,0.0,4.0
+7-30,NF,LMS (1450 McKinstry St),4.0,5.0
 7-30,NF,Pastuer,14.0,14.0
 7-30,NF,Northend,5.0,5.0
 7-30,NF,NWAC (18100 Meyers Rd),5.0,5.0
-7-30,NF,Delray (585 S. Leigh St),5.0,0
-7-30,NF,Henry Ford,4.0,12.0
-7-30,R,HamTown (8625 Joseph Campau),4.0,1.0
-7-30,R,Henry Ford,0,4.0
-7-30,T,LMS (1450 McKinstry St),6.0,2.0
-7-30,T,Food Field,4.0,0.0
-7-30,T,Henry Ford,0,5.0
-7-30,X2,Pastuer,15.0,0
-7-30,X,LMS (1450 McKinstry St),2.0,0
-7-30,X,Henry Ford,30.0,0
-7-30,OP,HamTown (8625 Joseph Campau),14.0,17.0
-7-15,AA,Delray (585 S. Leigh St),8.0,4.0
-7-15,B,LMS (1450 McKinstry St),5.0,10.0
+7-30,NF,Delray (585 S. Leigh St),0,5.0
+7-30,NF,Henry Ford,12.0,4.0
+7-30,R,HamTown (8625 Joseph Campau),1.0,4.0
+7-30,R,Henry Ford,4.0,0
+7-30,T,LMS (1450 McKinstry St),2.0,6.0
+7-30,T,Food Field,0.0,4.0
+7-30,T,Henry Ford,5.0,0
+7-30,X2,Pastuer,0,15.0
+7-30,X,LMS (1450 McKinstry St),0,2.0
+7-30,X,Henry Ford,0,30.0
+7-30,OP,HamTown (8625 Joseph Campau),17.0,14.0
+7-15,AA,Delray (585 S. Leigh St),4.0,8.0
+7-15,B,LMS (1450 McKinstry St),10.0,5.0
 7-15,B,Henry Ford,5.0,5.0
-7-15,B,Northwest,5.0,0
+7-15,B,Northwest,0,5.0
 7-15,B,HamTown (8625 Joseph Campau),14.0,14.0
-7-15,B,NWAC (18100 Meyers Rd),4.0,8.0
-7-15,D,Delray (585 S. Leigh St),4.0,6.0
-7-15,G,NWAC (18100 Meyers Rd),14.0,11.0
+7-15,B,NWAC (18100 Meyers Rd),8.0,4.0
+7-15,D,Delray (585 S. Leigh St),6.0,4.0
+7-15,G,NWAC (18100 Meyers Rd),11.0,14.0
 7-15,G,Northwest,4.0,4.0
-7-15,GP,LMS (1450 McKinstry St),0,3.0
-7-15,GP,Henry Ford,4.0,5.0
-7-15,NF,LMS (1450 McKinstry St),18.0,19.0
-7-15,NF,Northwest,4.0,0
-7-15,NF,HamTown (8625 Joseph Campau),8.0,4.0
-7-15,NF,Henry Ford,5.0,0
+7-15,GP,LMS (1450 McKinstry St),3.0,0
+7-15,GP,Henry Ford,5.0,4.0
+7-15,NF,LMS (1450 McKinstry St),19.0,18.0
+7-15,NF,Northwest,0,4.0
+7-15,NF,HamTown (8625 Joseph Campau),4.0,8.0
+7-15,NF,Henry Ford,0,5.0
 7-15,R,HamTown (8625 Joseph Campau),4.0,4.0
-7-15,R,Henry Ford,4.0,0
-7-15,T,LMS (1450 McKinstry St),6.0,0
-7-15,T,Henry Ford,4.0,3.0
-7-15,T,Brightmoor,4.0,1.0
+7-15,R,Henry Ford,0,4.0
+7-15,T,LMS (1450 McKinstry St),0,6.0
+7-15,T,Henry Ford,3.0,4.0
+7-15,T,Brightmoor,1.0,4.0
 7-15,X,Brightmoor,20.0,20.0
 7-15,X,LMS (1450 McKinstry St),2.0,2.0
 7-15,X,Henry Ford,30.0,30.0
 7-15,X,NWAC (18100 Meyers Rd),15.0,15.0
-7-15,OP,Henry Ford,0.0,0
+7-15,OP,Henry Ford,0,0.0
 7-15,OP,Delray (585 S. Leigh St),18.0,18.0
-7-18,AA,The Science Center,8.0,5.0
-7-18,B,The Science Center,10.0,4.0
-7-18,B,The Zoo,18.0,30.0
-7-18,B,Balduck,5.0,0
-7-18,D,The Science Center,4.0,0
+7-18,AA,The Science Center,5.0,8.0
+7-18,B,The Science Center,4.0,10.0
+7-18,B,The Zoo,30.0,18.0
+7-18,B,Balduck,0,5.0
+7-18,D,The Science Center,0,4.0
 7-18,D,The Zoo,3.0,3.0
-7-18,G,The Science Center,5.0,0
-7-18,G,The Zoo,.,25.0
-7-18,GP,The Science Center,0,5.0
-7-18,GP,Balduck,4.0,0
-7-18,NF,The Science Center,20.0,14.0
-7-18,NF,The Zoo,3.0,18.0
+7-18,G,The Science Center,0,5.0
+7-18,G,The Zoo,25.0,.
+7-18,GP,The Science Center,5.0,0
+7-18,GP,Balduck,0,4.0
+7-18,NF,The Science Center,14.0,20.0
+7-18,NF,The Zoo,18.0,3.0
 7-18,NF,Balduck,4.0,4.0
-7-18,R,The Science Center,4.0,8.0
-7-18,R,Balduck,0.0,0
-7-18,T,The Zoo,6.0,12.0
-7-18,X2,The Science Center,25.0,24.0
-7-18,X,The Zoo,10.0,0
-7-18,OP,The Science Center,14.0,13.0
-7-17,AA,Delray (585 S. Leigh St),8.0,3.0
-7-17,B,LMS (1450 McKinstry St),5.0,13.0
+7-18,R,The Science Center,8.0,4.0
+7-18,R,Balduck,0,0.0
+7-18,T,The Zoo,12.0,6.0
+7-18,X2,The Science Center,24.0,25.0
+7-18,X,The Zoo,0,10.0
+7-18,OP,The Science Center,13.0,14.0
+7-17,AA,Delray (585 S. Leigh St),3.0,8.0
+7-17,B,LMS (1450 McKinstry St),13.0,5.0
 7-17,B,Delray (585 S. Leigh St),14.0,14.0
-7-17,B,Northwest,0,5.0
-7-17,B,Bagley,5.0,0
-7-17,B,NWAC (18100 Meyers Rd),8.0,3.0
-7-17,D,Bagley,4.0,0
-7-17,D,Delray (585 S. Leigh St),4.0,6.0
-7-17,G,NWAC (18100 Meyers Rd),14.0,17.0
-7-17,G,Bagley,5.0,0
-7-17,GP,Bagley,4.0,5.0
-7-17,NF,LMS (1450 McKinstry St),18.0,25.0
-7-17,NF,Bagley,4.0,8.0
+7-17,B,Northwest,5.0,0
+7-17,B,Bagley,0,5.0
+7-17,B,NWAC (18100 Meyers Rd),3.0,8.0
+7-17,D,Bagley,0,4.0
+7-17,D,Delray (585 S. Leigh St),6.0,4.0
+7-17,G,NWAC (18100 Meyers Rd),17.0,14.0
+7-17,G,Bagley,0,5.0
+7-17,GP,Bagley,5.0,4.0
+7-17,NF,LMS (1450 McKinstry St),25.0,18.0
+7-17,NF,Bagley,8.0,4.0
 7-17,R,HamTown (8625 Joseph Campau),4.0,4.0
-7-17,T,LMS (1450 McKinstry St),6.0,9.0
+7-17,T,LMS (1450 McKinstry St),9.0,6.0
 7-17,T,Northwest,4.0,4.0
-7-17,T,Bagley,3.0,0
-7-17,X,LMS (1450 McKinstry St),2.0,0
-7-17,OP,HamTown (8625 Joseph Campau),18.0,13.0
-7-16,AA,Delray (585 S. Leigh St),8.0,1.0
-7-16,B,LMS (1450 McKinstry St),5.0,4.0
-7-16,B,Food Field,5.0,0
-7-16,B,Delray (585 S. Leigh St),14.0,17.0
-7-16,B,NWAC (18100 Meyers Rd),4.0,0
-7-16,D,Delray (585 S. Leigh St),4.0,10.0
-7-16,G,NWAC (18100 Meyers Rd),14.0,9.0
-7-16,G,Scarcyny,4.0,5.0
-7-16,GP,Northend,4.0,1.0
-7-16,NF,Northend,10.0,6.0
-7-16,NF,LMS (1450 McKinstry St),18.0,19.0
+7-17,T,Bagley,0,3.0
+7-17,X,LMS (1450 McKinstry St),0,2.0
+7-17,OP,HamTown (8625 Joseph Campau),13.0,18.0
+7-16,AA,Delray (585 S. Leigh St),1.0,8.0
+7-16,B,LMS (1450 McKinstry St),4.0,5.0
+7-16,B,Food Field,0,5.0
+7-16,B,Delray (585 S. Leigh St),17.0,14.0
+7-16,B,NWAC (18100 Meyers Rd),0,4.0
+7-16,D,Delray (585 S. Leigh St),10.0,4.0
+7-16,G,NWAC (18100 Meyers Rd),9.0,14.0
+7-16,G,Scarcyny,5.0,4.0
+7-16,GP,Northend,1.0,4.0
+7-16,NF,Northend,6.0,10.0
+7-16,NF,LMS (1450 McKinstry St),19.0,18.0
 7-16,NF,Food Field,4.0,4.0
-7-16,NF,NWAC (18100 Meyers Rd),4.0,0
-7-16,R,Scarcyny,4.0,0
-7-16,R,HamTown (8625 Joseph Campau),4.0,5.0
-7-16,T,LMS (1450 McKinstry St),6.0,5.0
-7-16,T,Scarcyny,4.0,0
-7-16,T,Delray (585 S. Leigh St),0,
-7-16,X,LMS (1450 McKinstry St),2.0,0
-7-16,OP,Scarcyny,0.0,0
-7-16,OP,HamTown (8625 Joseph Campau),18.0,8.0
-8-14,AA,Delray (585 S. Leigh St),5.0,3.0
+7-16,NF,NWAC (18100 Meyers Rd),0,4.0
+7-16,R,Scarcyny,0,4.0
+7-16,R,HamTown (8625 Joseph Campau),5.0,4.0
+7-16,T,LMS (1450 McKinstry St),5.0,6.0
+7-16,T,Scarcyny,0,4.0
+7-16,T,Delray (585 S. Leigh St),,0
+7-16,X,LMS (1450 McKinstry St),0,2.0
+7-16,OP,Scarcyny,0,0.0
+7-16,OP,HamTown (8625 Joseph Campau),8.0,18.0
+8-14,AA,Delray (585 S. Leigh St),3.0,5.0
 8-14,B,LMS (1450 McKinstry St),14.0,14.0
-8-14,B,Pastuer,,3.0
-8-14,B,Plum steet,5.0,3.0
-8-14,B,Tindal,5.0,0.0
+8-14,B,Pastuer,3.0,
+8-14,B,Plum steet,3.0,5.0
+8-14,B,Tindal,0.0,5.0
 8-14,B,NWAC (18100 Meyers Rd),5.0,5.0
-8-14,D,Delray (585 S. Leigh St),5.0,
-8-14,G,NWAC (18100 Meyers Rd),14.0,10.0
+8-14,D,Delray (585 S. Leigh St),,5.0
+8-14,G,NWAC (18100 Meyers Rd),10.0,14.0
 8-14,GP,Tindal,5.0,5.0
-8-14,NF,LMS (1450 McKinstry St),10.0,8.0
-8-14,NF,Plum steet,5.0,2.0
-8-14,NF,Pastuer,14.0,15.0
-8-14,R,Delray (585 S. Leigh St),5.0,7.0
-8-14,T,LMS (1450 McKinstry St),6.0,4.0
-8-14,T,Plum steet,,0
-8-14,T,Tindal,5.0,1.0
-8-14,OP,Plum steet,5.0,0
-8-14,OP,Tindal,15.0,11.0
-8-15,AA,Tindal,.,8.0
-8-15,B,Tindal,0,48.0
-8-15,G,Tindal,0,10.0
-8-15,GP,Tindal,0,14.0
-8-15,NF,Tindal,0,60.0
+8-14,NF,LMS (1450 McKinstry St),8.0,10.0
+8-14,NF,Plum steet,2.0,5.0
+8-14,NF,Pastuer,15.0,14.0
+8-14,R,Delray (585 S. Leigh St),7.0,5.0
+8-14,T,LMS (1450 McKinstry St),4.0,6.0
+8-14,T,Plum steet,0,
+8-14,T,Tindal,1.0,5.0
+8-14,OP,Plum steet,0,5.0
+8-14,OP,Tindal,11.0,15.0
+8-15,AA,Tindal,8.0,.
+8-15,B,Tindal,48.0,0
+8-15,G,Tindal,10.0,0
+8-15,GP,Tindal,14.0,0
+8-15,NF,Tindal,60.0,0
 8-15,R,Tindal,19.0,19.0
-8-15,T,Tindal,0,17.0
-8-15,OP,Tindal,0,37.0
+8-15,T,Tindal,17.0,0
+8-15,OP,Tindal,37.0,0
 8-13,AA,Tindal,2.0,2.0
-8-13,AA,Delray (585 S. Leigh St),5.0,6.0
-8-13,B,LMS (1450 McKinstry St),14.0,9.0
-8-13,B,Food Field,5.0,0
-8-13,B,Pastuer,,0
-8-13,B,Tindal,5.0,0
+8-13,AA,Delray (585 S. Leigh St),6.0,5.0
+8-13,B,LMS (1450 McKinstry St),9.0,14.0
+8-13,B,Food Field,0,5.0
+8-13,B,Pastuer,0,
+8-13,B,Tindal,0,5.0
 8-13,B,NWAC (18100 Meyers Rd),5.0,5.0
-8-13,D,Delray (585 S. Leigh St),5.0,7.0
-8-13,G,NWAC (18100 Meyers Rd),14.0,8.0
-8-13,G,Food Field,0,2.0
-8-13,GP,davison,0,6.0
-8-13,GP,Tindal,5.0,0
-8-13,NF,LMS (1450 McKinstry St),10.0,8.0
-8-13,NF,Food Field,5.0,2.0
-8-13,NF,Tindal,0,3.0
-8-13,NF,Pastuer,14.0,15.0
-8-13,R,davison,0,4.0
+8-13,D,Delray (585 S. Leigh St),7.0,5.0
+8-13,G,NWAC (18100 Meyers Rd),8.0,14.0
+8-13,G,Food Field,2.0,0
+8-13,GP,davison,6.0,0
+8-13,GP,Tindal,0,5.0
+8-13,NF,LMS (1450 McKinstry St),8.0,10.0
+8-13,NF,Food Field,2.0,5.0
+8-13,NF,Tindal,3.0,0
+8-13,NF,Pastuer,15.0,14.0
+8-13,R,davison,4.0,0
 8-13,R,Delray (585 S. Leigh St),5.0,5.0
-8-13,T,LMS (1450 McKinstry St),6.0,3.0
-8-13,T,Food Field,,0
+8-13,T,LMS (1450 McKinstry St),3.0,6.0
+8-13,T,Food Field,0,
 8-13,T,Tindal,5.0,5.0
-8-13,OP,Food Field,5.0,11.0
-8-13,OP,Tindal,15.0,0
-7-11,AA,Wayne State ,8.0,4.0
-7-11,B,Henry Ford,5.0,0
-7-11,B,Wayne State ,25.0,37.0
-7-11,D,Wayne State ,8.0,4.0
-7-11,G,Henry Ford,5.0,6.0
-7-11,G,Wayne State ,14.0,9.0
-7-11,GP,Wayne State ,0,4.0
-7-11,GP,Henry Ford,4.0,2.0
-7-11,NF,Henry Ford,5.0,0
-7-11,NF,Wayne State ,30.0,24.0
+8-13,OP,Food Field,11.0,5.0
+8-13,OP,Tindal,0,15.0
+7-11,AA,Wayne State ,4.0,8.0
+7-11,B,Henry Ford,0,5.0
+7-11,B,Wayne State ,37.0,25.0
+7-11,D,Wayne State ,4.0,8.0
+7-11,G,Henry Ford,6.0,5.0
+7-11,G,Wayne State ,9.0,14.0
+7-11,GP,Wayne State ,4.0,0
+7-11,GP,Henry Ford,2.0,4.0
+7-11,NF,Henry Ford,0,5.0
+7-11,NF,Wayne State ,24.0,30.0
 7-11,R,Henry Ford,4.0,4.0
-7-11,R,Wayne State ,4.0,7.0
+7-11,R,Wayne State ,7.0,4.0
 7-11,T,Wayne State ,10.0,10.0
 7-11,X2,Wayne State ,10.0,10.0
 7-11,X,Wayne State ,30.0,30.0
 7-11,OP,Henry Ford,14.0,14.0
-7-11,OP,Wayne State ,4.0,5.0
-7-10,AA,Delray (585 S. Leigh St),8.0,3.0
-7-10,B,LMS (1450 McKinstry St),5.0,0
-7-10,B,Delray (585 S. Leigh St),5.0,0
-7-10,B,Henry Ford,5.0,0
-7-10,B,HamTown (8625 Joseph Campau),14.0,0
+7-11,OP,Wayne State ,5.0,4.0
+7-10,AA,Delray (585 S. Leigh St),3.0,8.0
+7-10,B,LMS (1450 McKinstry St),0,5.0
+7-10,B,Delray (585 S. Leigh St),0,5.0
+7-10,B,Henry Ford,0,5.0
+7-10,B,HamTown (8625 Joseph Campau),0,14.0
 7-10,B,NWAC (18100 Meyers Rd),4.0,4.0
-7-10,D,Repair The World,4.0,0
-7-10,D,Delray (585 S. Leigh St),4.0,8.0
-7-10,G,NWAC (18100 Meyers Rd),14.0,10.0
-7-10,G,Henry Ford,4.0,6.0
-7-10,GP,HamTown (8625 Joseph Campau),0,1.0
-7-10,GP,Henry Ford,4.0,3.0
-7-10,NF,LMS (1450 McKinstry St),14.0,17.0
-7-10,NF,Repair The World,9.0,4.0
+7-10,D,Repair The World,0,4.0
+7-10,D,Delray (585 S. Leigh St),8.0,4.0
+7-10,G,NWAC (18100 Meyers Rd),10.0,14.0
+7-10,G,Henry Ford,6.0,4.0
+7-10,GP,HamTown (8625 Joseph Campau),1.0,0
+7-10,GP,Henry Ford,3.0,4.0
+7-10,NF,LMS (1450 McKinstry St),17.0,14.0
+7-10,NF,Repair The World,4.0,9.0
 7-10,NF,Henry Ford,4.0,4.0
-7-10,R,HamTown (8625 Joseph Campau),4.0,3.0
-7-10,R,Henry Ford,4.0,3.0
-7-10,T,LMS (1450 McKinstry St),6.0,5.0
-7-10,T,Repair The World,4.0,3.0
-7-10,T,Henry Ford,4.0,3.0
+7-10,R,HamTown (8625 Joseph Campau),3.0,4.0
+7-10,R,Henry Ford,3.0,4.0
+7-10,T,LMS (1450 McKinstry St),5.0,6.0
+7-10,T,Repair The World,3.0,4.0
+7-10,T,Henry Ford,3.0,4.0
 7-10,X,LMS (1450 McKinstry St),2.0,2.0
-7-10,OP,Henry Ford,14.0,13.0
-7-10,OP,Delray (585 S. Leigh St),8.0,2.0
-7-9,AA,Delray (585 S. Leigh St),8.0,3.0
-7-9,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),5.0,6.0
-7-9,B,LMS (1450 McKinstry St),5.0,6.0
-7-9,B,Delray (585 S. Leigh St),5.0,3.0
-7-9,B,HamTown (8625 Joseph Campau),14.0,15.0
-7-9,B,NWAC (18100 Meyers Rd),4.0,9.0
-7-9,D,Northend,4.0,3.0
-7-9,D,Delray (585 S. Leigh St),4.0,2.0
-7-9,G,NWAC (18100 Meyers Rd),14.0,4.0
+7-10,OP,Henry Ford,13.0,14.0
+7-10,OP,Delray (585 S. Leigh St),2.0,8.0
+7-9,AA,Delray (585 S. Leigh St),3.0,8.0
+7-9,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),6.0,5.0
+7-9,B,LMS (1450 McKinstry St),6.0,5.0
+7-9,B,Delray (585 S. Leigh St),3.0,5.0
+7-9,B,HamTown (8625 Joseph Campau),15.0,14.0
+7-9,B,NWAC (18100 Meyers Rd),9.0,4.0
+7-9,D,Northend,3.0,4.0
+7-9,D,Delray (585 S. Leigh St),2.0,4.0
+7-9,G,NWAC (18100 Meyers Rd),4.0,14.0
 7-9,G,Food Field,4.0,4.0
-7-9,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,3.0
-7-9,GP,LMS (1450 McKinstry St),0,3.0
-7-9,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,2.0
+7-9,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,0
+7-9,GP,LMS (1450 McKinstry St),3.0,0
+7-9,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),2.0,4.0
 7-9,NF,LMS (1450 McKinstry St),14.0,14.0
 7-9,NF,Food Field,4.0,4.0
-7-9,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),5.0,0
+7-9,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,5.0
 7-9,NF,NWAC (18100 Meyers Rd),4.0,4.0
-7-9,R,NWAC (18100 Meyers Rd),0,1.0
-7-9,R,HamTown (8625 Joseph Campau),4.0,6.0
-7-9,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,2.0
-7-9,T,LMS (1450 McKinstry St),6.0,4.0
-7-9,T,Food Field,0,4.0
+7-9,R,NWAC (18100 Meyers Rd),1.0,0
+7-9,R,HamTown (8625 Joseph Campau),6.0,4.0
+7-9,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),2.0,4.0
+7-9,T,LMS (1450 McKinstry St),4.0,6.0
+7-9,T,Food Field,4.0,0
 7-9,T,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),2.0,2.0
-7-9,X,LMS (1450 McKinstry St),2.0,0
+7-9,X,LMS (1450 McKinstry St),0,2.0
 7-9,X,NWAC (18100 Meyers Rd),17.0,17.0
-7-9,OP,Denby (2800 Kelly Rd),14.0,13.0
-7-9,OP,Delray (585 S. Leigh St),8.0,4.0
-7-8,AA,Delray (585 S. Leigh St),8.0,4.0
-7-8,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),5.0,0
-7-8,B,LMS (1450 McKinstry St),5.0,4.0
-7-8,B,Delray (585 S. Leigh St),5.0,2.0
-7-8,B,HamTown (8625 Joseph Campau),14.0,15.0
-7-8,B,NWAC (18100 Meyers Rd),4.0,9.0
-7-8,D,Brightmoor (15081 Greenfield rd.),4.0,0
-7-8,D,Delray (585 S. Leigh St),4.0,10.0
-7-8,G,NWAC (18100 Meyers Rd),14.0,11.0
+7-9,OP,Denby (2800 Kelly Rd),13.0,14.0
+7-9,OP,Delray (585 S. Leigh St),4.0,8.0
+7-8,AA,Delray (585 S. Leigh St),4.0,8.0
+7-8,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,5.0
+7-8,B,LMS (1450 McKinstry St),4.0,5.0
+7-8,B,Delray (585 S. Leigh St),2.0,5.0
+7-8,B,HamTown (8625 Joseph Campau),15.0,14.0
+7-8,B,NWAC (18100 Meyers Rd),9.0,4.0
+7-8,D,Brightmoor (15081 Greenfield rd.),0,4.0
+7-8,D,Delray (585 S. Leigh St),10.0,4.0
+7-8,G,NWAC (18100 Meyers Rd),11.0,14.0
 7-8,G,Brightmoor (15081 Greenfield rd.),4.0,4.0
-7-8,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,6.0
+7-8,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),6.0,4.0
 7-8,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,4.0
-7-8,NF,LMS (1450 McKinstry St),18.0,13.0
-7-8,NF,Brightmoor (15081 Greenfield rd.),4.0,0
+7-8,NF,LMS (1450 McKinstry St),13.0,18.0
+7-8,NF,Brightmoor (15081 Greenfield rd.),0,4.0
 7-8,NF,NWAC (18100 Meyers Rd),4.0,4.0
-7-8,R,HamTown (8625 Joseph Campau),,3.0
-7-8,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,2.0
-7-8,T,LMS (1450 McKinstry St),6.0,2.0
-7-8,T,Brightmoor (15081 Greenfield rd.),4.0,0
-7-8,T,NWAC (18100 Meyers Rd),0,7.0
+7-8,R,HamTown (8625 Joseph Campau),3.0,
+7-8,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),2.0,4.0
+7-8,T,LMS (1450 McKinstry St),2.0,6.0
+7-8,T,Brightmoor (15081 Greenfield rd.),0,4.0
+7-8,T,NWAC (18100 Meyers Rd),7.0,0
 7-8,X,LMS (1450 McKinstry St),2.0,2.0
 7-8,X,NWAC (18100 Meyers Rd),17.0,17.0
-7-8,OP,LMS (1450 McKinstry St),8.0,0
-7-8,OP,Denby (2800 Kelly Rd),14.0,12.0
-7-3,AA,Delray (585 S. Leigh St),4.0,6.0
-7-3,B,NWAC (18100 Meyers Rd),4.0,0
-7-3,B,Plum Street,5.0,0
-7-3,B,HamTown (8625 Joseph Campau),4.0,0
-7-3,B,Delray (585 S. Leigh St),19.0,0
-7-3,D,LMS (1450 McKinstry St),,0
-7-3,D,Plum Street,4.0,0
-7-3,D,Delray (585 S. Leigh St),4.0,10.0
-7-3,G,NWAC (18100 Meyers Rd),14.0,5.0
-7-3,G,Plum Street,4.0,2.0
-7-3,GP,LMS (1450 McKinstry St),10.0,1.0
-7-3,NF,LMS (1450 McKinstry St),22.0,20.0
-7-3,NF,Plum Street,5.0,0
-7-3,NF,NWAC (18100 Meyers Rd),0.0,0
-7-3,R,NWAC (18100 Meyers Rd),,0
-7-3,R,HamTown (8625 Joseph Campau),0.0,8.0
-7-3,T,LMS (1450 McKinstry St),6.0,5.0
-7-3,T,Plum Street,4.0,2.0
-7-3,T,Delray (585 S. Leigh St),0,3.0
-7-3,X,LMS (1450 McKinstry St),2.0,0
-7-3,X,NWAC (18100 Meyers Rd),17.0,0
-7-3,OP,HamTown (8625 Joseph Campau),18.0,15.0
-7-2,AA,Delray (585 S. Leigh St),4.0,2.0
+7-8,OP,LMS (1450 McKinstry St),0,8.0
+7-8,OP,Denby (2800 Kelly Rd),12.0,14.0
+7-3,AA,Delray (585 S. Leigh St),6.0,4.0
+7-3,B,NWAC (18100 Meyers Rd),0,4.0
+7-3,B,Plum Street,0,5.0
+7-3,B,HamTown (8625 Joseph Campau),0,4.0
+7-3,B,Delray (585 S. Leigh St),0,19.0
+7-3,D,LMS (1450 McKinstry St),0,
+7-3,D,Plum Street,0,4.0
+7-3,D,Delray (585 S. Leigh St),10.0,4.0
+7-3,G,NWAC (18100 Meyers Rd),5.0,14.0
+7-3,G,Plum Street,2.0,4.0
+7-3,GP,LMS (1450 McKinstry St),1.0,10.0
+7-3,NF,LMS (1450 McKinstry St),20.0,22.0
+7-3,NF,Plum Street,0,5.0
+7-3,NF,NWAC (18100 Meyers Rd),0,0.0
+7-3,R,NWAC (18100 Meyers Rd),0,
+7-3,R,HamTown (8625 Joseph Campau),8.0,0.0
+7-3,T,LMS (1450 McKinstry St),5.0,6.0
+7-3,T,Plum Street,2.0,4.0
+7-3,T,Delray (585 S. Leigh St),3.0,0
+7-3,X,LMS (1450 McKinstry St),0,2.0
+7-3,X,NWAC (18100 Meyers Rd),0,17.0
+7-3,OP,HamTown (8625 Joseph Campau),15.0,18.0
+7-2,AA,Delray (585 S. Leigh St),2.0,4.0
 7-2,B,NWAC (18100 Meyers Rd),4.0,4.0
-7-2,B,Northend (934 Oakland),4.0,0
-7-2,B,Balduck,5.0,6.0
-7-2,B,HamTown (8625 Joseph Campau),4.0,0
-7-2,B,Delray (585 S. Leigh St),14.0,12.0
-7-2,D,Northend (934 Oakland),4.0,0
-7-2,D,Delray (585 S. Leigh St),4.0,5.0
-7-2,G,NWAC (18100 Meyers Rd),14.0,3.0
-7-2,G,LMS (1450 McKinstry St),0,3.0
-7-2,G,Food Field (on lawrence between rosa parks and woodrow wilson),4.0,
-7-2,GP,Balduck,4.0,10.0
-7-2,NF,LMS (1450 McKinstry St),18.0,10.0
+7-2,B,Northend (934 Oakland),0,4.0
+7-2,B,Balduck,6.0,5.0
+7-2,B,HamTown (8625 Joseph Campau),0,4.0
+7-2,B,Delray (585 S. Leigh St),12.0,14.0
+7-2,D,Northend (934 Oakland),0,4.0
+7-2,D,Delray (585 S. Leigh St),5.0,4.0
+7-2,G,NWAC (18100 Meyers Rd),3.0,14.0
+7-2,G,LMS (1450 McKinstry St),3.0,0
+7-2,G,Food Field (on lawrence between rosa parks and woodrow wilson),,4.0
+7-2,GP,Balduck,10.0,4.0
+7-2,NF,LMS (1450 McKinstry St),10.0,18.0
 7-2,NF,Balduck,5.0,5.0
 7-2,NF,NWAC (18100 Meyers Rd),4.0,4.0
 7-2,R,Balduck,4.0,4.0
-7-2,R,HamTown (8625 Joseph Campau),0.0,1.0
-7-2,T,LMS (1450 McKinstry St),6.0,4.0
-7-2,T,Balduck,0.0,3.0
-7-2,T,Food Field (on lawrence between rosa parks and woodrow wilson),3.0,
-7-2,X,LMS (1450 McKinstry St),2.0,0
-7-2,X,NWAC (18100 Meyers Rd),17.0,0
-7-2,OP,Balduck,0.0,1.0
-7-2,OP,HamTown (8625 Joseph Campau),18.0,20.0
-7-1,AA,Delray (585 S. Leigh St),4.0,1.0
+7-2,R,HamTown (8625 Joseph Campau),1.0,0.0
+7-2,T,LMS (1450 McKinstry St),4.0,6.0
+7-2,T,Balduck,3.0,0.0
+7-2,T,Food Field (on lawrence between rosa parks and woodrow wilson),,3.0
+7-2,X,LMS (1450 McKinstry St),0,2.0
+7-2,X,NWAC (18100 Meyers Rd),0,17.0
+7-2,OP,Balduck,1.0,0.0
+7-2,OP,HamTown (8625 Joseph Campau),20.0,18.0
+7-1,AA,Delray (585 S. Leigh St),1.0,4.0
 7-1,B,NWAC (18100 Meyers Rd),14.0,14.0
-7-1,B,Trumbul Viaduct,5.0,10.0
-7-1,B,Delray (585 S. Leigh St),5.0,10.0
-7-1,D,"Brightmoor (Chatam, between finkell and Chalfont)",4.0,1.0
-7-1,D,Delray (585 S. Leigh St),4.0,3.0
-7-1,G,LMS (1450 McKinstry St),4.0,3.0
-7-1,G,Trumbul Viaduct,4.0,0
-7-1,G,"Brightmoor (Chatam, between finkell and Chalfont)",4.0,3.0
-7-1,G,NWAC (18100 Meyers Rd),14.0,3.0
-7-1,GP,Trumbul Viaduct,0,3.0
-7-1,GP,Delray (585 S. Leigh St),4.0,0
-7-1,NF,LMS (1450 McKinstry St),14.0,18.0
-7-1,NF,Trumbul Viaduct,5.0,8.0
-7-1,NF,HamTown (8625 Joseph Campau),5.0,0
+7-1,B,Trumbul Viaduct,10.0,5.0
+7-1,B,Delray (585 S. Leigh St),10.0,5.0
+7-1,D,"Brightmoor (Chatam, between finkell and Chalfont)",1.0,4.0
+7-1,D,Delray (585 S. Leigh St),3.0,4.0
+7-1,G,LMS (1450 McKinstry St),3.0,4.0
+7-1,G,Trumbul Viaduct,0,4.0
+7-1,G,"Brightmoor (Chatam, between finkell and Chalfont)",3.0,4.0
+7-1,G,NWAC (18100 Meyers Rd),3.0,14.0
+7-1,GP,Trumbul Viaduct,3.0,0
+7-1,GP,Delray (585 S. Leigh St),0,4.0
+7-1,NF,LMS (1450 McKinstry St),18.0,14.0
+7-1,NF,Trumbul Viaduct,8.0,5.0
+7-1,NF,HamTown (8625 Joseph Campau),0,5.0
 7-1,R,Trumbul Viaduct,4.0,4.0
-7-1,R,HamTown (8625 Joseph Campau),0.0,2.0
-7-1,T,LMS (1450 McKinstry St),6.0,10.0
-7-1,T,"Brightmoor (Chatam, between finkell and Chalfont)",0,3.0
+7-1,R,HamTown (8625 Joseph Campau),2.0,0.0
+7-1,T,LMS (1450 McKinstry St),10.0,6.0
+7-1,T,"Brightmoor (Chatam, between finkell and Chalfont)",3.0,0
 7-1,X,NWAC (18100 Meyers Rd),17.0,17.0
-7-1,OP,Trumbul Viaduct,0.0,0
-7-1,OP,HamTown (8625 Joseph Campau),18.0,22.0
-6-25,AA,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,0
-6-25,AA,Delray (585 S. Leigh St),7.0,3.0
+7-1,OP,Trumbul Viaduct,0,0.0
+7-1,OP,HamTown (8625 Joseph Campau),22.0,18.0
+6-25,AA,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,3.0
+6-25,AA,Delray (585 S. Leigh St),3.0,7.0
 6-25,B,Hamtramck (8625 Joseph Campau),14.0,14.0
-6-25,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),5.0,0
-6-25,B,Food Field,4.0,0
-6-25,B,Delray (585 S. Leigh St),5.0,0
-6-25,B,Denby (2800 Kelly Rd),0,5.0
-6-25,B,NWAC (18100 Meyers Rd),3.0,4.0
+6-25,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,5.0
+6-25,B,Food Field,0,4.0
+6-25,B,Delray (585 S. Leigh St),0,5.0
+6-25,B,Denby (2800 Kelly Rd),5.0,0
+6-25,B,NWAC (18100 Meyers Rd),4.0,3.0
 6-25,D,North End,4.0,4.0
-6-25,D,Delray (585 S. Leigh St),4.0,
-6-25,G,LMS (1450 McKinstry St),14.0,3.0
-6-25,G,Food Field,4.0,8.0
-6-25,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,8.0
-6-25,G,NWAC (18100 Meyers Rd),4.0,11.0
-6-25,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,6.0
-6-25,NF,LMS (1450 McKinstry St),6.0,15.0
+6-25,D,Delray (585 S. Leigh St),,4.0
+6-25,G,LMS (1450 McKinstry St),3.0,14.0
+6-25,G,Food Field,8.0,4.0
+6-25,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,0
+6-25,G,NWAC (18100 Meyers Rd),11.0,4.0
+6-25,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),6.0,8.0
+6-25,NF,LMS (1450 McKinstry St),15.0,6.0
 6-25,NF,Food Field,5.0,5.0
-6-25,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,4.0
-6-25,NF,NWAC (18100 Meyers Rd),14.0,5.0
-6-25,R,Hamtramck (8625 Joseph Campau),4.0,5.0
-6-25,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,0
+6-25,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,0
+6-25,NF,NWAC (18100 Meyers Rd),5.0,14.0
+6-25,R,Hamtramck (8625 Joseph Campau),5.0,4.0
+6-25,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,3.0
 6-25,T,LMS (1450 McKinstry St),6.0,6.0
 6-25,T,Food Field,3.0,3.0
-6-25,OP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,0
+6-25,OP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,4.0
 6-25,OP,Denby (2800 Kelly Rd),20.0,20.0
-6-25,OP,Delray (585 S. Leigh St),5.0,0
+6-25,OP,Delray (585 S. Leigh St),0,5.0
 6-24,AA,Delray (585 S. Leigh St),2.0,2.0
-6-24,B,Northwest Activites Center (18100 Meyers Rd),0,3.0
-6-24,B,NWAC (18100 Meyers Rd),19.0,3.0
-6-24,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),15.0,10.0
-6-24,B,HamTown (8625 Joseph Campau),0,14.0
-6-24,B,Denby (2800 Kelly Rd),10.0,0
+6-24,B,Northwest Activites Center (18100 Meyers Rd),3.0,0
+6-24,B,NWAC (18100 Meyers Rd),3.0,19.0
+6-24,B,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),10.0,15.0
+6-24,B,HamTown (8625 Joseph Campau),14.0,0
+6-24,B,Denby (2800 Kelly Rd),0,10.0
 6-24,D,LMS (1450 McKinstry St),4.0,4.0
-6-24,D,HamTown (8625 Joseph Campau),0,
+6-24,D,HamTown (8625 Joseph Campau),,0
 6-24,D,Delray (585 S. Leigh St),2.0,2.0
-6-24,G,NWAC (18100 Meyers Rd),14.0,5.0
-6-24,G,"Brightmoor (Chatam, between finkell and Chalfont)",5.0,4.0
+6-24,G,NWAC (18100 Meyers Rd),5.0,14.0
+6-24,G,"Brightmoor (Chatam, between finkell and Chalfont)",4.0,5.0
 6-24,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,8.0
-6-24,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,6.0
-6-24,NF,LMS (1450 McKinstry St),20.0,11.0
+6-24,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),6.0,4.0
+6-24,NF,LMS (1450 McKinstry St),11.0,20.0
 6-24,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,8.0
-6-24,NF,"Brightmoor (Chatam, between finkell and Chalfont)",0,5.0
-6-24,NF,HamTown (8625 Joseph Campau),4.0,1.0
+6-24,NF,"Brightmoor (Chatam, between finkell and Chalfont)",5.0,0
+6-24,NF,HamTown (8625 Joseph Campau),1.0,4.0
 6-24,NF,NWAC (18100 Meyers Rd),4.0,4.0
-6-24,R,HamTown (8625 Joseph Campau),,0
+6-24,R,HamTown (8625 Joseph Campau),0,
 6-24,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,3.0
-6-24,T,LMS (1450 McKinstry St),6.0,5.0
-6-24,T,Northwest Activites Center (18100 Meyers Rd),5.0,1.0
-6-24,T,"Brightmoor (Chatam, between finkell and Chalfont)",5.0,0
-6-24,T,HamTown (8625 Joseph Campau),4.0,0
-6-24,X,NWAC (18100 Meyers Rd),,0
-6-24,X,HamTown (8625 Joseph Campau),,0
-6-24,OP,Denby (2800 Kelly Rd),18.0,16.0
-6-27,AA,Hart Plaza,3.0,0
-6-27,AA,Belle Isle,7.0,3.0
-6-27,B,Belle Isle,22.0,23.0
-6-27,D,Greetings from Gratiot,,0
-6-27,D,Hart Plaza,0,2.0
-6-27,D,Belle Isle,4.0,0
-6-27,G,Belle Isle,14.0,21.0
-6-27,GP,Greetings from Gratiot,4.0,0
-6-27,GP,Belle Isle,0,3.0
-6-27,NF,Hart Plaza,0,4.0
-6-27,NF,Belle Isle,24.0,29.0
+6-24,T,LMS (1450 McKinstry St),5.0,6.0
+6-24,T,Northwest Activites Center (18100 Meyers Rd),1.0,5.0
+6-24,T,"Brightmoor (Chatam, between finkell and Chalfont)",0,5.0
+6-24,T,HamTown (8625 Joseph Campau),0,4.0
+6-24,X,NWAC (18100 Meyers Rd),0,
+6-24,X,HamTown (8625 Joseph Campau),0,
+6-24,OP,Denby (2800 Kelly Rd),16.0,18.0
+6-27,AA,Hart Plaza,0,3.0
+6-27,AA,Belle Isle,3.0,7.0
+6-27,B,Belle Isle,23.0,22.0
+6-27,D,Greetings from Gratiot,0,
+6-27,D,Hart Plaza,2.0,0
+6-27,D,Belle Isle,0,4.0
+6-27,G,Belle Isle,21.0,14.0
+6-27,GP,Greetings from Gratiot,0,4.0
+6-27,GP,Belle Isle,3.0,0
+6-27,NF,Hart Plaza,4.0,0
+6-27,NF,Belle Isle,29.0,24.0
 6-27,R,Hart Plaza,4.0,4.0
-6-27,R,Belle Isle,4.0,2.0
+6-27,R,Belle Isle,2.0,4.0
 6-27,T,Belle Isle,6.0,6.0
-6-27,X,4800 Phillip st The vine and fig  ,22.0,0
-6-27,X,Greetings from Gratiot,21.0,0
-6-27,X,New Calvary baptist church 3975 concord 48207,22.0,0
-6-27,X,Belle Isle,80.0,0
-6-27,OP,Hart Plaza,5.0,0
-6-27,OP,Belle Isle,14.0,22.0
-6-26,AA,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,0
-6-26,AA,Delray (585 S. Leigh St),7.0,3.0
-6-26,B,NWAC (18100 Meyers Rd),5.0,4.0
-6-26,B,Denby (12800 Kelly Rd),0,7.0
-6-26,B,HamTown (8625 Joseph Campau),14.0,11.0
-6-26,B,Plum St (976 E. Forest Ave. Detroit MI 48201),5.0,0
+6-27,X,4800 Phillip st The vine and fig  ,0,22.0
+6-27,X,Greetings from Gratiot,0,21.0
+6-27,X,New Calvary baptist church 3975 concord 48207,0,22.0
+6-27,X,Belle Isle,0,80.0
+6-27,OP,Hart Plaza,0,5.0
+6-27,OP,Belle Isle,22.0,14.0
+6-26,AA,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,3.0
+6-26,AA,Delray (585 S. Leigh St),3.0,7.0
+6-26,B,NWAC (18100 Meyers Rd),4.0,5.0
+6-26,B,Denby (12800 Kelly Rd),7.0,0
+6-26,B,HamTown (8625 Joseph Campau),11.0,14.0
+6-26,B,Plum St (976 E. Forest Ave. Detroit MI 48201),0,5.0
 6-26,D,Plum St (976 E. Forest Ave. Detroit MI 48201),4.0,4.0
-6-26,D,Delray (585 S. Leigh St),7.0,1.0
-6-26,G,LMS (1450 McKinstry St),4.0,10.0
-6-26,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,5.0
-6-26,G,Plum St (976 E. Forest Ave. Detroit MI 48201),4.0,3.0
-6-26,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,0
-6-26,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,8.0
+6-26,D,Delray (585 S. Leigh St),1.0,7.0
+6-26,G,LMS (1450 McKinstry St),10.0,4.0
+6-26,G,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),5.0,0
+6-26,G,Plum St (976 E. Forest Ave. Detroit MI 48201),3.0,4.0
+6-26,GP,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),0,8.0
+6-26,NF,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),8.0,4.0
 6-26,NF,LMS (1450 McKinstry St),4.0,4.0
-6-26,NF,Plum St (976 E. Forest Ave. Detroit MI 48201),5.0,0
-6-26,NF,NWAC (18100 Meyers Rd),13.0,14.0
-6-26,R,HamTown (8625 Joseph Campau),,5.0
-6-26,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),3.0,4.0
-6-26,T,LMS (1450 McKinstry St),6.0,4.0
-6-26,T,Denby (12800 Kelly Rd),,0
-6-26,T,Plum St (976 E. Forest Ave. Detroit MI 48201),4.0,3.0
-6-26,OP,Denby (12800 Kelly Rd),10.0,3.0
-6-26,OP,Delray (585 S. Leigh St),14.0,11.0
-8-8,AA,The Zoo,8.0,5.0
-8-8,B,The Science Center,18.0,3.0
-8-8,B,The Zoo,20.0,26.0
-8-8,B,Balduck,5.0,0
-8-8,D,The Zoo,4.0,9.0
-8-8,G,The Science Center,14.0,19.0
-8-8,G,The Zoo,5.0,0
-8-8,G,Balduck,0,4.0
-8-8,GP,The Science Center,0,5.0
-8-8,GP,Balduck,4.0,8.0
-8-8,NF,The Science Center,3.0,8.0
-8-8,NF,The Zoo,20.0,31.0
-8-8,NF,Balduck,4.0,0
-8-8,R,The Zoo,4.0,14.0
+6-26,NF,Plum St (976 E. Forest Ave. Detroit MI 48201),0,5.0
+6-26,NF,NWAC (18100 Meyers Rd),14.0,13.0
+6-26,R,HamTown (8625 Joseph Campau),5.0,
+6-26,R,Balduck 18101 East Warren(Trumbul Viaduct as rain back up),4.0,3.0
+6-26,T,LMS (1450 McKinstry St),4.0,6.0
+6-26,T,Denby (12800 Kelly Rd),0,
+6-26,T,Plum St (976 E. Forest Ave. Detroit MI 48201),3.0,4.0
+6-26,OP,Denby (12800 Kelly Rd),3.0,10.0
+6-26,OP,Delray (585 S. Leigh St),11.0,14.0
+8-8,AA,The Zoo,5.0,8.0
+8-8,B,The Science Center,3.0,18.0
+8-8,B,The Zoo,26.0,20.0
+8-8,B,Balduck,0,5.0
+8-8,D,The Zoo,9.0,4.0
+8-8,G,The Science Center,19.0,14.0
+8-8,G,The Zoo,0,5.0
+8-8,G,Balduck,4.0,0
+8-8,GP,The Science Center,5.0,0
+8-8,GP,Balduck,8.0,4.0
+8-8,NF,The Science Center,8.0,3.0
+8-8,NF,The Zoo,31.0,20.0
+8-8,NF,Balduck,0,4.0
+8-8,R,The Zoo,14.0,4.0
 8-8,R,Balduck,0.0,0.0
-8-8,T,The Science Center,6.0,12.0
-8-8,T,Balduck,0,3.0
-8-8,X,The Zoo,20.0,0
+8-8,T,The Science Center,12.0,6.0
+8-8,T,Balduck,3.0,0
+8-8,X,The Zoo,0,20.0
 8-8,X,Balduck,20.0,20.0
-8-8,OP,The Zoo,14.0,20.0
-8-5,AA,Delray (585 S. Leigh St),5.0,3.0
-8-5,B,LMS (1450 McKinstry St),15.0,8.0
-8-5,B,White Castle/eat em up ,5.0,rx
-8-5,B,Pastuer,5.0,0
-8-5,B,Brightmoors,5.0,0
-8-5,B,NWAC (18100 Meyers Rd),5.0,4.0
-8-5,B,Delray (585 S. Leigh St),5.0,0
-8-5,D,Delray (585 S. Leigh St),5.0,4.0
-8-5,G,NWAC (18100 Meyers Rd),15.0,5.0
-8-5,G,Farmers Market ,4.0,0.0
-8-5,GP,Brightmoors,5.0,0
-8-5,GP,White Castle/eat em up ,5.0,2.0
-8-5,NF,LMS (1450 McKinstry St),5.0,4.0
-8-5,NF,FLP,5.0,0
-8-5,NF,Pastuer,15.0,14.0
-8-5,NF,Brightmoors,,0
-8-5,NF,NWAC (18100 Meyers Rd),,0
-8-5,NF,Delray (585 S. Leigh St),0,3.0
-8-5,R,HamTown (8625 Joseph Campau),5.0,4.0
-8-5,T,LMS (1450 McKinstry St),5.0,3.0
-8-5,T,Brightmoors,4.0,0
+8-8,OP,The Zoo,20.0,14.0
+8-5,AA,Delray (585 S. Leigh St),3.0,5.0
+8-5,B,LMS (1450 McKinstry St),8.0,15.0
+8-5,B,White Castle/eat em up ,rx,5.0
+8-5,B,Pastuer,0,5.0
+8-5,B,Brightmoors,0,5.0
+8-5,B,NWAC (18100 Meyers Rd),4.0,5.0
+8-5,B,Delray (585 S. Leigh St),0,5.0
+8-5,D,Delray (585 S. Leigh St),4.0,5.0
+8-5,G,NWAC (18100 Meyers Rd),5.0,15.0
+8-5,G,Farmers Market ,0.0,4.0
+8-5,GP,Brightmoors,0,5.0
+8-5,GP,White Castle/eat em up ,2.0,5.0
+8-5,NF,LMS (1450 McKinstry St),4.0,5.0
+8-5,NF,FLP,0,5.0
+8-5,NF,Pastuer,14.0,15.0
+8-5,NF,Brightmoors,0,
+8-5,NF,NWAC (18100 Meyers Rd),0,
+8-5,NF,Delray (585 S. Leigh St),3.0,0
+8-5,R,HamTown (8625 Joseph Campau),4.0,5.0
+8-5,T,LMS (1450 McKinstry St),3.0,5.0
+8-5,T,Brightmoors,0,4.0
 8-5,T,Farmers Market ,4.0,4.0
-8-5,T,Pastuer,5.0,0.0
-8-5,OP,White Castle/eat em up ,5.0,0
-8-5,OP,HamTown (8625 Joseph Campau),15.0,10.0
-8-6,AA,Delray (585 S. Leigh St),0,5.0
-8-6,B,LMS (1450 McKinstry St),0,8.0
-8-6,B,henry  Ford,0,13.0
-8-6,D,Delray (585 S. Leigh St),0,11.0
-8-6,G,NWAC (18100 Meyers Rd),0,5.0
-8-6,G,henry  Ford,0,2.0
-8-6,GP,henry  Ford,0,4.0
-8-6,NF,LMS (1450 McKinstry St),0,10.0
-8-6,NF,Food Field,0,5.0
-8-6,NF,Pasteur (19811 Stoepel St),0,15.0
-8-6,NF,henry  Ford,0,4.0
-8-6,NF,North end,0,4.0
-8-6,NF,NWAC (18100 Meyers Rd),0,4.0
-8-6,R,NWAC (18100 Meyers Rd),0,3.0
-8-6,T,LMS (1450 McKinstry St),0,4.0
+8-5,T,Pastuer,0.0,5.0
+8-5,OP,White Castle/eat em up ,0,5.0
+8-5,OP,HamTown (8625 Joseph Campau),10.0,15.0
+8-6,AA,Delray (585 S. Leigh St),5.0,0
+8-6,B,LMS (1450 McKinstry St),8.0,0
+8-6,B,henry  Ford,13.0,0
+8-6,D,Delray (585 S. Leigh St),11.0,0
+8-6,G,NWAC (18100 Meyers Rd),5.0,0
+8-6,G,henry  Ford,2.0,0
+8-6,GP,henry  Ford,4.0,0
+8-6,NF,LMS (1450 McKinstry St),10.0,0
+8-6,NF,Food Field,5.0,0
+8-6,NF,Pasteur (19811 Stoepel St),15.0,0
+8-6,NF,henry  Ford,4.0,0
+8-6,NF,North end,4.0,0
+8-6,NF,NWAC (18100 Meyers Rd),4.0,0
+8-6,R,NWAC (18100 Meyers Rd),3.0,0
+8-6,T,LMS (1450 McKinstry St),4.0,0
 8-6,T,Food Field,3.0,3.0
-8-6,T,henry  Ford,0,3.0
-8-6,OP,North end,0,4.0
-8-6,OP,HamTown (8625 Joseph Campau),0,13.0
-8-7,AA,Delray (585 S. Leigh St),5.0,3.0
+8-6,T,henry  Ford,3.0,0
+8-6,OP,North end,4.0,0
+8-6,OP,HamTown (8625 Joseph Campau),13.0,0
+8-7,AA,Delray (585 S. Leigh St),3.0,5.0
 8-7,B,NWAC (18100 Meyers Rd),5.0,5.0
-8-7,D,Delray (585 S. Leigh St),0,4.0
+8-7,D,Delray (585 S. Leigh St),4.0,0
 8-7,G,Farwell,0.0,0.0
-8-7,G,NWAC (18100 Meyers Rd),14.0,6.0
-8-7,GP,Farwell,5.0,4.0
-8-7,NF,Pasteur (19811 Stoepel St),15.0,14.0
-8-7,NF,LMS (1450 McKinstry St),10.0,8.0
-8-7,NF,Plum street,0,10.0
-8-7,NF,Delray (585 S. Leigh St),5.0,3.0
-8-7,R,Farwell,0,4.0
-8-7,R,HamTown (8625 Joseph Campau),,3.0
-8-7,T,Farwell,0,6.0
-8-7,T,LMS (1450 McKinstry St),0,9.0
-8-7,T,Plum street,0,3.0
-8-7,OP,Farwell,0,22.0
-8-1,AA,Downtown,0,3.0
-8-1,B,Downtown,0,21.0
-8-1,G,Downtown,0,10.0
-8-1,GP,Henry Ford,0,1.0
-8-1,NF,Downtown,0,37.0
-8-1,R,Downtown,0,14.0
-8-1,T,Downtown,0,12.0
-8-1,OP,Downtown,0,18.0
+8-7,G,NWAC (18100 Meyers Rd),6.0,14.0
+8-7,GP,Farwell,4.0,5.0
+8-7,NF,Pasteur (19811 Stoepel St),14.0,15.0
+8-7,NF,LMS (1450 McKinstry St),8.0,10.0
+8-7,NF,Plum street,10.0,0
+8-7,NF,Delray (585 S. Leigh St),3.0,5.0
+8-7,R,Farwell,4.0,0
+8-7,R,HamTown (8625 Joseph Campau),3.0,
+8-7,T,Farwell,6.0,0
+8-7,T,LMS (1450 McKinstry St),9.0,0
+8-7,T,Plum street,3.0,0
+8-7,OP,Farwell,22.0,0
+8-1,AA,Downtown,3.0,0
+8-1,B,Downtown,21.0,0
+8-1,G,Downtown,10.0,0
+8-1,GP,Henry Ford,1.0,0
+8-1,NF,Downtown,37.0,0
+8-1,R,Downtown,14.0,0
+8-1,T,Downtown,12.0,0
+8-1,OP,Downtown,18.0,0
