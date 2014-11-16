@@ -18,3 +18,8 @@ Through our help, SITC wants to better understand how to recruit more volunteers
 - Identifying ways to bring potential volunteers to carpool sites
 - Identifying high schools where fundraising activities and volunteer recruitment can be held
 - Getting advice on data collection and data management strategy going forward. 
+
+## Results
+
+- Check out our [slidedeck](https://docs.google.com/presentation/d/1Npfintn1o1iW0mA8r_bVPrwgXb1fFajUFhYkRwk_yJ8/edit?usp=sharing).
+- Check out our [map](stevenhoelscher.me/2014/11/16/summer-in-the-city/)
